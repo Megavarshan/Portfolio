@@ -2,11 +2,6 @@
 
 This is my simple and elegant personal portfolio website developed using HTML, CSS, and JavaScript. The portfolio includes personal details such as the About section, Projects, Experience, Achievements, Licenses, and Certifications. The design features a modern, gradient-style background with a clean and organized layout to display information.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies](#technologies)
-
-
 ## Features
 
 - **About Section**: Describes who you are, your expertise, and your passion for AI and technology.
